@@ -14,19 +14,7 @@ The NeoNephos Foundation is part of the Linux Foundation Europe.
 
 ## :sunflower: Projects
 
-View NeoNephos' current projects here.
-
-- **[CobaltCore](https://github.com/cobaltcore-dev):**  CobaltCore is a reimagined, opinionated, and Kubernetes enabled OpenStack distribution, which complements IronCore and bridges the obligation to support the numerous non-cloud-native workloads by ensuring backward compatibility.
-- **[IronCore](https://github.com/ironcore-dev):**  The IronCore project is an open-source platform dedicated to empowering users with robust, declarative infrastructure management and bare metal automation, seamlessly integrating these capabilities into the cloud-native ecosystem via Kubernetes-native APIs.
-- **[Open Resource Discovery](https://github.com/SAP/open-resource-discovery):** ORD allows service providers to describe and customers poll their services in a uniform manner.
-- **[Garden Linux](https://github.com/gardenlinux/):**  Garden Linux is minimal, container-focused operating system. It is optimized for Kubernetes use with Gardener, but also used as a container base image or standalone.
-- **[Gardener](https://github.com/gardener/):**  Gardener supports a wide range of cloud providers, allowing deployment and management of Kubernetes clusters across different cloud environments.
-- **[Open Component Model](https://github.com/open-component-model/):** OCM provides auditability in service offerings by providing a Software Bill of Delivery (SBoD).
-- **[OpenControlPlane](https://github.com/openmcp-project):** OpenControlPlane extends the Kubernetes API to provide Control Planes and open-source Kubernetes Operators as a Service.
-- **[Open Micro Front End Platform (openMFP)](https://github.com/openmfp):**  OpenMFP brings together micro front ends and APIs into a cohesive platform, allowing teams to contribute components while maintaining their independence
-- **[Greenhouse](https://github.com/cloudoperators):**  Greenhouse is a comprehensive platform designed to address the challenges of operating large-scale cloud infrastructures.
-- **[Platform Mesh](https://github.com/platform-mesh):**  Platform Mesh establishes interoperability between multiple providers by building upon the Kubernetes API and resource model. Developers and admins can discover, access, and order services from various sources through kubectl.
-- **[Katalis](https://github.com/telekom/NeoNephos-Katalis):**  Katalis bridges Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles. Katalis establishes interoperability by translating Telco Federation APIs to IT Cloud resource provisioning and management.
+View NeoNephos' current projects [here](https://neonephos.org/projects)
 
 ## :seedling: Interesting Links
 
